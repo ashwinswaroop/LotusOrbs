@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 35d5d1f3930dbfa4f93080c5118f55f5
+timeCreated: 1522801199
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bump it up fixed 0
+  fontNames:
+  - Bump it up fixed 0
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
