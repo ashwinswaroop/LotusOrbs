@@ -1,3 +1,4 @@
+# Lotus Orbs
 Divided attention is a type of simultaneous attention that allows us to process different information sources and successfully carry out multiple tasks at a time.
 
 **Lotus Orbs** is a game which tests your divided attention and reaction time. Use deflectors to guide colored orbs into the same colored collector. Every incorrect deflection will result in a loss of 1 health point, but every 3 correct deflections results in a restoration of 1 health point.
